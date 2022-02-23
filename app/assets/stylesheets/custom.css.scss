@@ -5,6 +5,7 @@
 
 .search-area{
   padding-top: 50px;
+  margin-bottom: 1rem;
 }
 .no-right-padding{
   padding-right: 0 !important;
@@ -16,4 +17,8 @@
 
 .results-block{
   display: inline-block;
+  margin-bottom: 1rem;
+}
+.logout-button{
+  margin-right: 5px;
 }
