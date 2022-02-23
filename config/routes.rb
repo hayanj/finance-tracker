@@ -12,4 +12,5 @@ Rails.application.routes.draw do
   root 'pages#home'
   get 'my_portfolio', to: 'users#my_portfolio'
   get 'search_stock', to: 'stocks#search'
+  get 'my_friends', to: 'friendships#index'
 end
