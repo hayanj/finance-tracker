@@ -26,3 +26,18 @@
   margin-top: 3.5%;
   padding-right: 5px;
 }
+
+#sticky-footer {
+  position: fixed;
+  height: 100px;
+  bottom: 0;
+  width: 100%;
+}
+
+#jumbotron{
+  background-image: asset-url('home-pic.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 425 px;
+}
